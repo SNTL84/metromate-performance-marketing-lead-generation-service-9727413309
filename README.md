@@ -1,55 +1,69 @@
-# MetroMate — Performance Marketing & Growth Systems
+# MetroMate Performance Marketing
 
-> **We Market. You Grow.**  
-> Strategy · Creativity · Growth
+> **What’s costing you time?** Turn fragmented marketing, fulfillment, staffing, and supply-chain operations into measurable systems that move the business forward.
 
-MetroMate is a performance-marketing and business-automation service led by **SNTL 84**, built for founders and teams that want accountable growth systems, safer social presence, and less operational drag.
+[![Built by SNTL 84](https://img.shields.io/badge/Built%20by-SNTL%2084-111827?style=for-the-badge)](https://github.com/SNTL84)
+[![AI Workflow Engineering](https://img.shields.io/badge/AI%20Workflow-Engineering-f59e0b?style=for-the-badge)](https://desidevloper.com)
+[![Performance Marketing](https://img.shields.io/badge/Performance-Marketing-2563eb?style=for-the-badge)](https://desidevloper.com)
 
-## Collab: What’s Costing You Time?
+## The SNTL 84 approach
 
-We turn repetitive marketing and fulfillment work into measurable workflows—so your team can focus on customers, sales, and delivery.
+SNTL 84 helps ambitious operators replace repetitive work and disconnected tools with practical, automation-ready business systems.
 
-## Services
+This repository is the public home for MetroMate Performance Marketing: a service and systems practice focused on turning attention into demand, demand into fulfillment, and operational data into better decisions.
 
-- **Performance marketing** — campaign strategy, paid-growth support, tracking, optimization, and reporting.
-- **Social-media account hygiene** — identify, document, and report spam, fake, impersonating, or abusive accounts through official Instagram and Facebook tools.
-- **Content and social strategy** — brand-aligned content systems and channel planning.
-- **Fulfillment automation** — reduce manual handoffs, notifications, lead-routing, and operational follow-ups.
-- **Bench resource availability** — structured visibility into team capacity and project allocation.
-- **Full-stack builds** — websites, client portals, dashboards, integrations, and custom web applications.
-- **AI workflows** — agentic systems, business-process automation, and AI-assisted operations.
-- **Supply-chain business intelligence** — dashboards and operational insight for better decisions.
+## What we help build
 
-## Social-media protection
-
-MetroMate helps clients protect their social presence using evidence-led, policy-aligned processes. We **do not** use mass reporting, bots, credential collection, harassment, deceptive tactics, or platform-policy evasion.
-
-See the detailed process in [docs/social-media-spam-cleanup.md](docs/social-media-spam-cleanup.md).
-
-## Start a collaboration
-
-1. Share the time-consuming workflow or account-safety challenge.
-2. We map the current process, risks, and success metric.
-3. We propose a practical system, timeline, and reporting cadence.
-4. Your team gets transparent updates and a reusable operating process.
-
-## Contact
-
-| Channel | Link |
+| Capability | Outcome |
 | --- | --- |
-| Website | [desidevloper.com](https://desidevloper.com) |
-| WhatsApp | [wa.me/919727413309](https://wa.me/919727413309) |
-| LinkedIn | [linkedin.com/in/sntl2784](https://linkedin.com/in/sntl2784) |
-| GitHub | [github.com/SNTL84](https://github.com/SNTL84) |
-| Instagram | [@desibiztrade](https://www.instagram.com/desibiztrade) |
+| Performance marketing | Clearer acquisition, campaign execution, and growth reporting |
+| Fulfillment automation | Fewer manual handoffs across orders, teams, and delivery workflows |
+| Bench resource availability | Better visibility into available talent and faster project staffing |
+| Full-stack builds | Reliable web products, dashboards, internal tools, and integrations |
+| AI workflows | Agentic automations that research, qualify, route, summarize, and act |
+| Supply-chain intelligence | Operational visibility for planning, sourcing, inventory, and trade decisions |
 
-## Brand
+## Who this is for
 
-**MetroMate Digital Marketing Service**  
-*Your growth partner. One goal: your success.*
+- Founders who are losing time to repetitive coordination.
+- Marketing teams that need execution systems, not more disconnected tools.
+- Service businesses that need dependable fulfillment and resource visibility.
+- Trade and supply-chain operators who want decisions backed by usable data.
 
-Created by **SNTL 84** — Agentic AI Workflow Professional.
+## How we work
 
----
+1. **Find the bottleneck** — map the workflow and identify where time, revenue, or visibility is leaking.
+2. **Design the system** — define the data, automation, integrations, and human approvals required.
+3. **Build and connect** — ship practical full-stack tools and AI workflows around the existing operation.
+4. **Measure and improve** — track outcomes, remove friction, and iterate toward a more scalable business.
 
-© 2026 MetroMate / SNTL 84.
+## Practical AI automation
+
+The focus is not AI theatre. It is useful automation: workflows that can gather context, make structured decisions, keep people in control, and create a clear audit trail.
+
+Typical building blocks include:
+
+- Lead capture, enrichment, qualification, and routing.
+- Campaign and content operations.
+- Order, fulfillment, and delivery coordination.
+- Availability, staffing, and bench-resource tracking.
+- Business intelligence dashboards and reporting.
+- API integrations, webhooks, and internal tools.
+
+## Start a conversation
+
+**What’s costing you time right now?** Share the workflow, bottleneck, or business process you want to improve.
+
+- Website: [desidevloper.com](https://desidevloper.com)
+- WhatsApp: [Chat on WhatsApp](https://wa.me/919727413309)
+- LinkedIn: [SNTL 84 on LinkedIn](https://linkedin.com/in/sntl2784)
+- Instagram: [@desibiztrade](https://www.instagram.com/desibiztrade)
+- GitHub: [github.com/SNTL84](https://github.com/SNTL84)
+
+## Follow for practical insights
+
+🚀 Follow SNTL 84 for practical AI automation insights, founder systems, performance marketing lessons, and operational playbooks.
+
+## License
+
+This project is distributed under the license included in this repository.
